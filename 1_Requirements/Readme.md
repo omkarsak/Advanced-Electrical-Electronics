@@ -44,7 +44,7 @@ The implementation is done while aiming to reduce the effort and time required t
 4. The exception in five band register discussed in Color Code Exception part of Research is not supported by program.
 ## Flow Chart :
 <div align="center">
-<img src="https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/Flow%20Chart.png" >
+<img src="" >
 </div>
 1. INPUT: Take input of 5 color bands from user<br>
 2. FindColor: Function which will further call UpperToLower and CompareColor function and will return address of found colors<br>
