@@ -3,9 +3,7 @@
 ## High Level Design 
 
 ### Structural Diagram
-<div align="center"> 
 <img src="https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/2_Design/hight%20level%20struct.png" >
-</div>
 
 ### Behavioral Diagram
 <div align="center"> 
