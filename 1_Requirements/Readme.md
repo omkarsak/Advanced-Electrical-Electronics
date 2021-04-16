@@ -32,8 +32,7 @@ The implementation is done while aiming to reduce the effort and time required t
 
 # Cost and Features
 <div align="center">
-<img src=https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/table.png" >
-<p></p>
+<img src="https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/table.png" >
 </div>
 
 
@@ -45,14 +44,12 @@ The implementation is done while aiming to reduce the effort and time required t
 4. The exception in five band register discussed in Color Code Exception part of Research is not supported by program.
 ## Flow Chart :
 <div align="center">
-<img src=https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/Flow%20chart.png" >
-<p></p>
+<img src="https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/Flow%20chart.png" >
 </div>
                                                                                                                            
 # SWOT ANALYSIS :                                                                                                                         
 <div align="center">
-<img src=https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/SWOT%20L.png" >
-<p></p>
+<img src="https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/SWOT%20L.png" >
 </div>
 
 # 4W&#39;s and 1&#39;H
