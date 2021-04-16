@@ -18,3 +18,4 @@ Folder             | Description
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+[![Code Quality - Static Code - Cppcheck](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml)
