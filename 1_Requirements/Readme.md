@@ -47,14 +47,14 @@ The implementation is done while aiming to reduce the effort and time required t
 <img src="https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/Flow%20Chart.png" >
 </div>
 1. INPUT: Take input of 5 color bands from user<br>
-2. FindColor: Function which will further call UpperToLower and CompareColor function and will return address of found colors
-3. UpperToLower: Function which will convert all uppercase char in a string to lowercase
-4. CompareColor: Function which will check if the inpput is invalid or not
-5. If error is found Jump to step number '8' else pass value to UnitFinder
-6. Get tolerance for respective input
-7. Combine tolerance and resistance together and print them
-8. Ask the user if he want to start over again
-9. If user enters 'Y' then go to step '1' else end the program
+2. FindColor: Function which will further call UpperToLower and CompareColor function and will return address of found colors<br>
+3. UpperToLower: Function which will convert all uppercase char in a string to lowercase<br>
+4. CompareColor: Function which will check if the inpput is invalid or not<br>
+5. If error is found Jump to step number '8' else pass value to UnitFinder<br>
+6. Get tolerance for respective input<br>
+7. Combine tolerance and resistance together and print them<br>
+8. Ask the user if he want to start over again<br>
+9. If user enters 'Y' then go to step '1' else end the program<br>
                                                                                                                            
 # SWOT ANALYSIS :                                                                                                                         
 <div align="center">
