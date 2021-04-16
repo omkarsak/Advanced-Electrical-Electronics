@@ -1,4 +1,6 @@
 # Advanced-Electrical-Electronics
+[![Code Quality - Static Code - Cppcheck](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
