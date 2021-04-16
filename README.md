@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://eepower.com/uploads/education/resistor_color_codes_chart.png" >
 </div>
-<br />
+
 [![Code Quality - Static Code - Cppcheck](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml)
 
