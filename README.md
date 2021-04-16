@@ -19,3 +19,4 @@ Folder             | Description
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 [![Code Quality - Static Code - Cppcheck](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/actions/workflows/cppcheck.yml)
