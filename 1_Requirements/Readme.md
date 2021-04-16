@@ -12,8 +12,9 @@ Resistor esteems are frequently demonstrated with shading codes. Essentially all
 ## 2. Resistor Color Code Chart
 The chart below shows the resistance and tolerance for resistors. The table can also be used to determine color of the bands when the values are known.
 
-!<div align="center">
-<img src=https://eepower.com/uploads/education/resistor_color_codes_chart.png" >
+<div align="center">
+<img src=https://newfastuff.com/wp-content/uploads/2019/05/bW7QXVB.png" >
+<p>Perfectly balanced</p>
 </div>
 
 ## 3. Tips for Reading Resistor Codes
