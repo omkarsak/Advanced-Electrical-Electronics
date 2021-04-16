@@ -44,9 +44,9 @@ The implementation is done while aiming to reduce the effort and time required t
 4. The exception in five band register discussed in Color Code Exception part of Research is not supported by program.
 ## Flow Chart :
 <div align="center">
-<img src="" >
+<img src="https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/Flow%20Chart.png" >
 </div>
-1. INPUT: Take input of 5 color bands from user
+1. INPUT: Take input of 5 color bands from user<br>
 2. FindColor: Function which will further call UpperToLower and CompareColor function and will return address of found colors
 3. UpperToLower: Function which will convert all uppercase char in a string to lowercase
 4. CompareColor: Function which will check if the inpput is invalid or not
