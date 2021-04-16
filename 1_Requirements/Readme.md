@@ -11,8 +11,8 @@ Resistor esteems are frequently demonstrated with shading codes. Essentially all
 
 ## 2. Resistor Color Code Chart
 The chart below shows the resistance and tolerance for resistors. The table can also be used to determine color of the bands when the values are known.
+
 ![Different types of resistor with resistor band table](https://eepower.com/uploads/education/resistor_color_codes_chart.png)
-PC : 
 
 ## 3. Tips for Reading Resistor Codes
 - The reading direction may not generally be clear. Here and there the expanded space between band 3 and 4 provides away the understanding guidance. Additionally, the primary band is normally the nearest to a lead. A gold or silver band (the resistance) is consistently the last band. 
@@ -29,7 +29,7 @@ There are many clear benefits to utilizing a shading coding framework on electri
 The implementation is done while aiming to reduce the effort and time required to calculate the resistance and provide a seamless experience.
 
 # Cost and Features
-![Description](Link to Pic)
+![Cost and Features](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/table.png)
 
 
 # Defining Our System
@@ -39,8 +39,9 @@ The implementation is done while aiming to reduce the effort and time required t
 3. The program is limited to **five band resistors only**.
 4. The exception in five band register discussed in Color Code Exception part of Research is not supported by program.
 ## Flow Chart :
+![Chart](![Cost and Features](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/Flow%20chart.png))
 # SWOT ANALYSIS
-![SWOT-Sample](https://github.com/VisheshYadav288037/Hacktoberfest-2020/blob/master/SWOT-Analysis_harsh.png)
+![SWOT](https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/SWOT%20L.png)
 
 # 4W&#39;s and 1&#39;H
 
