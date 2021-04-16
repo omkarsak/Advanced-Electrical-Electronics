@@ -14,7 +14,7 @@ The chart below shows the resistance and tolerance for resistors. The table can 
 
 <div align="center">
 <img src=https://newfastuff.com/wp-content/uploads/2019/05/bW7QXVB.png" >
-<p>Perfectly balanced</p>
+<p></p>
 </div>
 
 ## 3. Tips for Reading Resistor Codes
