@@ -13,7 +13,7 @@ Resistor esteems are frequently demonstrated with shading codes. Essentially all
 The chart below shows the resistance and tolerance for resistors. The table can also be used to determine color of the bands when the values are known.
 
 <div align="center">
-<img src=https://newfastuff.com/wp-content/uploads/2019/05/bW7QXVB.png" >
+<img src=https://eepower.com/uploads/education/resistor_color_codes_chart.png" >
 <p></p>
 </div>
 
@@ -34,6 +34,7 @@ The implementation is done while aiming to reduce the effort and time required t
 # Cost and Features
 <div align="center">
 <img src=https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/table.png" >
+<p></p>
 </div>
 
 
@@ -46,10 +47,13 @@ The implementation is done while aiming to reduce the effort and time required t
 ## Flow Chart :
 <div align="center">
 <img src=https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/Flow%20chart.png" >
+<p></p>
 </div>
-# SWOT ANALYSIS
+                                                                                                                           
+# SWOT ANALYSIS :                                                                                                                         
 <div align="center">
 <img src=https://github.com/VisheshYadav288037/Advanced-Electrical-Electronics/blob/master/1_Requirements/SWOT%20L.png" >
+<p></p>
 </div>
 
 # 4W&#39;s and 1&#39;H
